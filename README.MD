@@ -6,7 +6,7 @@ Status: ✅ Completo
 > Tenha certeza que tem ao menos versão .NET 8 instalada na sua máquina para fazer o run do projeto
 > Caso não tenha é possível fazer o download no seguinte link: https://dotnet.microsoft.com/pt-br/
 ## Login com CPF e senha
-Substitua o <CPF:string> e <password: string> pela seu CPF e senha respectivamente.
+Substitua o `CPF:string` e `password: string` pela seu CPF e senha respectivamente.
 ```diff
 dotnet run --project Rpa.Core.Automation/Rpa.Core.Automation.csproj cpf <CPF:string> <password:password>
 ```
